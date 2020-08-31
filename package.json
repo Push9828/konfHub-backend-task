@@ -1,0 +1,14 @@
+{
+  "name": "backend-task",
+  "version": "1.0.0",
+  "description": "KonfHub-Backend-Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pushkar Thakur",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
